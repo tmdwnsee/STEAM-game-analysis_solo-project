@@ -55,7 +55,7 @@
   - 마케팅 전략 (Funnel)
 
 ### F. 마무리
-
+-----------
 ## 사용된 개발환경, 패키지
 - 프로그래밍 언어: Python3
 - 데이터 수집: Selenium, BeautifulSoup

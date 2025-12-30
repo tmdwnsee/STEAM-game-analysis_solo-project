@@ -64,6 +64,7 @@
 - 데이터 분석: pandas, numpy, matplotlib, seaborn
 - 머신러닝 패키지: sklearn
 - 머신러닝 알고리즘: k-mean clustering, XGBoost
+- LLM: ChatGPT, Gemini
 
 ## 분석내용:
 - 리뷰 점수가 높은 게임 특징
